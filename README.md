@@ -19,5 +19,5 @@ Note: We can remove Phone numbers if you want.
 | -                    | -          |
 | -                    | -          |
 
-## Agreed Upon Meeting Times 
+## Meeting Times Outside Class 
 
