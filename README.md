@@ -16,8 +16,8 @@ Note: We can remove Phone numbers if you want.
 |----------------------|------------|
 | Manager              | Alex       |
 | Tracker              | Lou        |
-| Editor               | Ken        |
-| Doomsayer            | Samantha   |
+| Editor               | Samantha   |
+| Github Manager       | Ken        |
 | Tester               | Andrew     |
 
 
