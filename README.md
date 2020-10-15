@@ -3,7 +3,7 @@
 ## Group Member Details 
 | Full Name       | Preferred Name | SID       | Email                      | Phone     |
 |-----------------|----------------|-----------|----------------------------|-----------|
-| Samantha Chew   | Samantha       | 000000000 | sche4003@uni.sydney.edu.au | xxxxxxxxxx|
+| Samantha Chew   | Samantha       | 480380926 | sche4003@uni.sydney.edu.au | 0426262512|
 | Alex Wong       | Alex           | 000000000 | xxxxxxxx@uni.sydney.edu.au | xxxxxxxxxx|
 | Andrew Auwyang  | Andrew         | 480377616 | aauw2900@uni.sydney.edu.au | 0433120386|
 | Voon Ken Ren    | Ken            | 480219084 | kvoo2843@uni.sydney.edu.au | 0450752249|
@@ -14,10 +14,19 @@ Note: We can remove Phone numbers if you want.
 ## Group Roles
 |  Roles               | Name       |
 |----------------------|------------|
-| Manager              | -          |
-| Tracker              | -          |
-| -                    | -          |
-| -                    | -          |
+| Manager              | Alex       |
+| Tracker              | Lou        |
+| Editor               | Ken        |
+| Doomsayer            | Samantha   |
+| Tester               | Andrew     |
+
 
 ## Meeting Times Outside Class 
 
+* Monday 8:30pm 
+
+## Tools 
+
+* Github
+* Google Drive 
+* Jupyter Notebooks 
