@@ -10,3 +10,14 @@
 | Lou Irish Gonzales | Lou         | 000000000 | xxxxxxxx@uni.sydney.edu.au | xxxxxxxxxx|
 
 Note: We can remove Phone numbers if you want. 
+
+## Group Roles
+|  Roles               | Name       |
+|----------------------|------------|
+| Manager              | -          |
+| Tracker              | -          |
+| -                    | -          |
+| -                    | -          |
+
+## Agreed Upon Meeting Times 
+
