@@ -1,0 +1,1 @@
+This folder shall contain all the team's meeting minutes.
