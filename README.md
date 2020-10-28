@@ -18,7 +18,7 @@ Note: We can remove Phone numbers if you want.
 | Tracker              | Lou        |
 | Editor               | Samantha   |
 | Github Manager       | Ken        |
-| Tester               | Andrew     |
+| Tester and Checklist               | Andrew     |
 
 
 ## Meeting Times Outside Class 
