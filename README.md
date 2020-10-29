@@ -9,25 +9,31 @@ The source of the data will be from *Our World in Data* (https://ourworldindata.
 ## HOW - Table of contents
 
 * [Driving Question](#drivingquestion)
-* [Other README guides](#othersources)
-* [Examples/Best Practice README.md's](#examples)
-* [Template](#template)
-* [Invitation to contribute](#contribute)
+* [Background](#background)
+* [Data Origin](#dataorigin)
+* [Data Definitions](#datadefinitions)
+* [Ethics](#ethics)
+* [Contributing](#contributing)
+* [Group Member Details](#memberdetails)
+* [Group Roles](#roles)
 
-## Driving Question
+
+Driving Question
 ---------
 
 The driving question of our analysis is *How Deadly is COVID-19?* We will be examining the 'deadliness' of COVID-19 both from a global perspective, as well as a select few countries and examining their responses to managing the virus.
 
 We will also be accounting for the uncertainty that might be prevalent within the data sources, and we will be making sure to mention these when producing data visualisations.
 
-## Background
+Background
+---------
 
 The novel coronavirus disease 2019 (COVID-19) is an infectious respiratory disease that has impacted the world substantially. It has been classified as a global pandemic by the *World Health Organisation* (WHO), and has sparked countries across the world to develop management and prevention strategies such as lockdowns and extensive social distancing practices.
 
 To date, 
 
-## Data Origin 
+Data Origin 
+---------
 
 Our COVID-19 dataSet, *‘owid-covid-data.csv’*, is a snapshot of the data from the ‘Our World in Data’ [github repository](https://github.com/owid/covid-19-data/tree/master/public/data) taken on **15 October 2020**. The data on the ‘Our World in Data’ repository is updated daily and includes features such as confirmed cases, confirmed deaths, COVID-19 testing, and other possible points of interest.
 
