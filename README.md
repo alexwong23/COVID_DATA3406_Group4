@@ -18,10 +18,19 @@ The novel coronavirus disease 2019 (COVID-19) is an infectious respiratory disea
 
 To date, 
 
+## Data Origin 
+
+## Data Definitions 
+
+Group Meeting Minutes - Minutes folder
+Each group meeting minutes is stored in the Minutes folder with the format, Week#_Meeting_Minutes.pdf. Each document contains the agenda for the week and the following meeting. It also records the action items and division of work among group members for the following week. Additionally, it discusses the key points we learned from each member’s individual analysis.
+
+Process Notebooks
+Each group member has their own Jupyter notebook containing the data exploration for their respective part. These process notebooks are updated regularly and stored in the Process Notebooks folder.
+
+### Ethics
+
 ## Getting Started
-
-### To clone the repository: 
-
 1. Create a folder on your local machine where you want to store these files.
 2. Navigate to the folder 
     * Useful commands cd : change directory, dir (for windows), ls (for linux/MacOS) to show a list of directories. 
@@ -31,7 +40,7 @@ To date,
     * `$ git clone https://github.sydney.edu.au/awon6941/DATA3406_Group4.git`
 4. You should now have a copy of the repository on your local machine. 
 
-### To add contributions:
+## Contributing
 (assuming you are currently on your local repository directory)
 1. `$git pull` - pull the latest changes **(ALWAYS DO THIS FIRST)** 
 2. Make your changes to the folder, either by adding a new file, or overwriting an existing file. 
@@ -65,3 +74,4 @@ To date,
 * Github
 * Google Drive 
 * Jupyter Notebooks/Google Collab
+
