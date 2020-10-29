@@ -125,5 +125,5 @@ Other Details
 ### Tools
 * Github
 * Google Drive 
-* Jupyter Notebooks/Google Collab
+* Jupyter Notebooks/Google Colab
 
