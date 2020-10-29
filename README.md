@@ -16,6 +16,28 @@ We will also be accounting for the uncertainty that might be prevalent within th
 
 The novel coronavirus disease 2019 (COVID-19) is an infectious respiratory disease that has impacted the world substantially. It has been classified as a global pandemic by the *World Health Organisation* (WHO), and has sparked countries across the world to develop management and prevention strategies such as lockdowns and extensive social distancing practices.
 
+To date, 
+
+## Getting Started
+
+### To clone the repository: 
+
+1. Create a folder on your local machine where you want to store these files.
+2. Navigate to the folder 
+    * Useful commands cd : change directory, dir (for windows), ls (for linux/MacOS) to show a list of directories. 
+    * Example sequence of commands: 
+        * cd Desktop (your now on the desktop) -> cd data3406 (your now in the folder named data3406).
+3. Type in the command 
+    * `$ git clone https://github.sydney.edu.au/awon6941/DATA3406_Group4.git`
+4. You should now have a copy of the repository on your local machine. 
+
+### To add contributions:
+(assuming you are currently on your local repository directory)
+1. '$git pull' - pull the latest changes **(ALWAYS DO THIS FIRST)** 
+2. Make your changes to the folder, either by adding a new file, or overwriting an existing file. 
+3. '$git add .' - for add all changes or ‘$git add hello.ipynb’ - for a specific file.
+4. ‘$git commit -m “Your commit comments here." '
+5. ‘$git push’ - push your commits to the repository.
 
 ## Group Member Details 
 | Full Name       | Preferred Name | SID       | Email                      | Phone     |
@@ -26,8 +48,6 @@ The novel coronavirus disease 2019 (COVID-19) is an infectious respiratory disea
 | Voon Ken Ren    | Ken            | 480219084 | kvoo2843@uni.sydney.edu.au | 0450752249|
 | Lou Irish Gonzales | Lou         | 480378255 | lgon9610@uni.sydney.edu.au | 0426203696|
 
-Note: We can remove Phone numbers if you want. 
-
 ## Group Roles
 |  Roles               | Name       |
 |----------------------|------------|
@@ -35,15 +55,13 @@ Note: We can remove Phone numbers if you want.
 | Tracker              | Lou        |
 | Editor               | Samantha   |
 | Github Manager       | Ken        |
-| Tester and Checklist               | Andrew     |
-
+| Tester and Checklist | Andrew     |
 
 ## Meeting Times Outside Class 
 
 * Monday 8:30pm 
 
 ## Tools 
-
 * Github
 * Google Drive 
-* Jupyter Notebooks 
+* Jupyter Notebooks/Google Collab
