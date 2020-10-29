@@ -1,4 +1,5 @@
-# DATA3406 - Group 4 (Thurs 12B): 'Deadliness' of COVID-19 (Global and Country-Based)
+# 'Deadliness' of COVID-19 (Global and Country-Based)
+> DATA3406 - Group 4 (12-Green)
 
 This project is an inspection of the novel coronavirus (COVID-19) pandemic and its perceived deadliness across the world. Analysis will be both from a holistic, global perspective, as well as close examination of certain countries and how they have been impacted by COVID-19.
 
@@ -6,17 +7,18 @@ Our analysis will also consider potential uncertainty present in the data provid
 
 The source of the data will be from *Our World in Data* (https://ourworldindata.org/coronavirus)
 
-## HOW - Table of contents
+## Table of contents
 
 * [Driving Question](#driving-question)
 * [Background](#background)
 * [Data Origin](#data-origin)
 * [Data Definitions](#data-definitions)
 * [Ethics](#ethics)
-* [Checklist](#checklist)
+* [Issues](#issues)
 * [Contributing](#contributing)
 * [Project Owners](#project-owners)
 * [License](#license)
+* [References](#references)
 * [Other Details](#other-details)
 
 
@@ -50,26 +52,20 @@ Each group meeting minutes is stored in the Minutes folder with the format, Week
 Process Notebooks
 Each group member has their own Jupyter notebook containing the data exploration for their respective part. These process notebooks are updated regularly and stored in the Process Notebooks folder.
 
+> TODO: List of key files and describes key variables needed to understand the product notebook. Like purpose of each folder, where to find process notebooks, product notebook, the data... Purpose for different folder of data (**Preserve immutability of the raw data.**)
+
 Ethics
 ---------
 
-Checklist
+Issues
 ---------
-- [x] **GitHub Access**  
-Add collaborators, and teaching staff to the project
-- [ ] **Ethics**
-If your project needed Ethics approval, mention the approval and the conditions that are particularly relevant to the repository. This can for example include the people that have access (I hope your repository is set to private, otherwise you are in trouble), the hosting location, anonymisation or others.
-- [x] **Data origin**
-- [ ] **Time stamps**  
-Although GitHub has time stamps, it can be useful to include dates. For example say *'as of 20/10/2020 these papers were published in relation to the project'*. This is important information for when a README is updated, because a date supplies a starting point for additions.
-- [x] **Project owners**
-- [x] **Folder naming**  
-- [ ] **Folder structure**
-
-* **data_raw** (our favorite oxymoron. Keep your original files separate from the rest)
-* **data_engineered** (files of data that are a result of your cleaning/modelling/analysis belong here)
-* **code_r** (for all your R scripts, you may want to separate **practice code** and **product code**)
-* **vis** (for visualizations if need)
+- [x] **Format README file**
+- [ ] **Create an outline of the product notebook**
+- [ ] **Ethical analysis - purpose**
+- [ ] **Stakeholder analysis**
+- [ ] **Ethical analysis - nature of raw data**
+- [ ] **Ethical analysis - managing data and biases**
+- [ ] **Ethical analysis - limitations**
 
 Contributing
 ---------
@@ -90,7 +86,7 @@ If you thought you had made a mistake, you can simly reset your commit by using 
 
 Project Owners
 ---------
-Project owners are students from the University of Sydney.
+Project owners are DATA3406 students from the University of Sydney.
 
 ### Contact details
 
