@@ -12,6 +12,12 @@ The driving question of our analysis is *How Deadly is COVID-19?* We will be exa
 
 We will also be accounting for the uncertainty that might be prevalent within the data sources, and we will be making sure to mention these when producing data visualisations.
 
+## Background
+
+The novel coronavirus disease 2019 (COVID-19) is an infectious respiratory disease that has impacted the world substantially. It has been classified as a global pandemic by the *World Health Organisation* (WHO), and has sparked countries across the world to develop management and prevention strategies such as lockdowns and extensive social distancing practices.
+
+To date, 
+
 ## Group Member Details 
 | Full Name       | Preferred Name | SID       | Email                      | Phone     |
 |-----------------|----------------|-----------|----------------------------|-----------|
