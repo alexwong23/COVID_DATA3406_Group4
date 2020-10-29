@@ -44,7 +44,7 @@ If you thought you had made a mistake, you can simly reset your commit by using 
       * use `--hard` if you want to completely remove the changes. 
    * `$git reset --hard 0abcd1d` resets to a specific commit based on the commit code.
    
- For more commands see the [Git cheatsheet]().  
+ For more commands see the [Git cheatsheet](https://github.sydney.edu.au/awon6941/DATA3406_Group4/blob/master/assests/SWTM-2088_Atlassian-Git-Cheatsheet.pdf) by Atlissian.  
 
 ## Group Member Details 
 | Full Name       | Preferred Name | SID       | Email                      | Phone     |
