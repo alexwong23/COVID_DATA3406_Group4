@@ -15,6 +15,7 @@ The source of the data will be from *Our World in Data* (https://ourworldindata.
 * [Data Definitions](#data-definitions)
 * [Ethics](#ethics)
 * [Issues](#issues)
+* [Getting started](#getting-started)
 * [Contributing](#contributing)
 * [Project Owners](#project-owners)
 * [License](#license)
@@ -67,6 +68,20 @@ Issues
 - [ ] **Ethical analysis - managing data and biases**
 - [ ] **Ethical analysis - limitations**
 
+Getting Started
+---------
+To clone the repository: 
+
+1. Create a folder on your local machine where you want to store these files (you can do this normally).
+    * in terminal/command-line, you use the command `mkdir filename`
+2. Navigate to the folder you have just created in terminal/command-line. 
+    * To do this use the command, `cd` to change directories (navigate through folders), and `dir` (for windows) or `ls` (for linux/MacOS) to show a list of available directories accessible from your current directory. 
+    * Example sequence of commands: 
+        * `cd Desktop` (your now on the desktop) -> `cd foldername` (your now in the folder your created to store the repository) -> `cd data3406_group4` (your now in the repository folder)
+        * Note: A common mistake people make is assuming that the folder they had created is the repository, its actually the folder that *stores the local copy of the repository* so make sure you navigate to the repository folder first, otherwise you will get an error message saying that the repository does not exist.
+3. Type in the command `$ git clone https://github.sydney.edu.au/awon6941/DATA3406_Group4.git`
+4. You should now have a copy of the repository on your local machine. 
+
 Contributing
 ---------
 (assuming you are currently on your local repository directory)
@@ -78,9 +93,12 @@ Contributing
 
 If you thought you had made a mistake, you can simly reset your commit by using the command,
    * `$git reset --soft HEAD~1` to reset it back by 1 commit 
-      * use `--soft` if you simply wanted to restructure your message.
+      * use `--soft` if you simply wanted to correct your commit message, and push the changes.
       * use `--hard` if you want to completely remove the changes. 
-   * `$git reset --hard 0abcd1d` resets to a specific commit based on the commit code.
+   * `$git reset --hard 0abcd1d` resets to a specific commit based on the commit code (e.g. 0abcd1d).
+
+Alternatively, you can simply overwrite the files you changed with the older version, or simply delete the unwanted file/folder from your desktop and use the sequence of commands,
+  * `git add .`, `git commit -m "message"` and `git push`. 
    
  For more commands see the [Git cheatsheet](https://github.sydney.edu.au/awon6941/DATA3406_Group4/blob/master/assests/SWTM-2088_Atlassian-Git-Cheatsheet.pdf) by Atlissian.  
 
