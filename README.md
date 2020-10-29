@@ -116,6 +116,7 @@ License
 
 References
 ---------
+> "You have the permission to use, distribute, and reproduce these in any medium, provided the source and authors are credited." How should we provide the source and authors? https://github.com/owid/covid-19-data/tree/master/public/data
 > This data has been collected, aggregated, and documented by Cameron Appel, Diana Beltekian, Daniel Gavrilov, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Edouard Mathieu, Esteban Ortiz-Ospina, Hannah Ritchie, Max Roser.
 
 Other Details
