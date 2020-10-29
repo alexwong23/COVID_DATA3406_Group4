@@ -101,7 +101,7 @@ Project Owners
 | Voon Ken Ren    | Ken            | 480219084 | kvoo2843@uni.sydney.edu.au | 0450752249|
 | Lou Irish Gonzales | Lou         | 480378255 | lgon9610@uni.sydney.edu.au | 0426203696|
 
-### Roles
+### Role Rotation
 
 |    Week     |  Tracker |  Manager |  Editor | GitHub Manager |  Tester and Checklist  |
 | :---------: | :------: | :------: | :-----: | :------------: | :--------------------: |
@@ -114,6 +114,9 @@ Project Owners
 License
 ---------
 
+References
+---------
+> This data has been collected, aggregated, and documented by Cameron Appel, Diana Beltekian, Daniel Gavrilov, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Edouard Mathieu, Esteban Ortiz-Ospina, Hannah Ritchie, Max Roser.
 
 Other Details
 ---------
