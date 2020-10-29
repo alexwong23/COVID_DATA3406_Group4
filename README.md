@@ -28,7 +28,7 @@ Each group meeting minutes is stored in the Minutes folder with the format, Week
 Process Notebooks
 Each group member has their own Jupyter notebook containing the data exploration for their respective part. These process notebooks are updated regularly and stored in the Process Notebooks folder.
 
-### Ethics
+## Ethics
 
 ## Contributing
 (assuming you are currently on your local repository directory)
