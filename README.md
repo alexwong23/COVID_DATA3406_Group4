@@ -30,16 +30,6 @@ Each group member has their own Jupyter notebook containing the data exploration
 
 ### Ethics
 
-## Getting Started
-1. Create a folder on your local machine where you want to store these files.
-2. Navigate to the folder 
-    * Useful commands cd : change directory, dir (for windows), ls (for linux/MacOS) to show a list of directories. 
-    * Example sequence of commands: 
-        * cd Desktop (your now on the desktop) -> cd data3406 (your now in the folder named data3406).
-3. Type in the command 
-    * `$ git clone https://github.sydney.edu.au/awon6941/DATA3406_Group4.git`
-4. You should now have a copy of the repository on your local machine. 
-
 ## Contributing
 (assuming you are currently on your local repository directory)
 1. `$git pull` - pull the latest changes **(ALWAYS DO THIS FIRST)** 
@@ -47,6 +37,14 @@ Each group member has their own Jupyter notebook containing the data exploration
 3. `$git add .` - for add all changes or ‘$git add hello.ipynb’ - for a specific file.
 4. `$git commit -m “Your commit comments here." `
 5. `$git push` - push your commits to the repository.
+
+If you thought you had made a mistake, you can simly reset your commit by using the command,
+   * `$git reset --soft HEAD~1` to reset it back by 1 commit 
+      * use `--soft` if you simply wanted to restructure your message.
+      * use `--hard` if you want to completely remove the changes. 
+   * `$git reset --hard 0abcd1d` resets to a specific commit based on the commit code.
+   
+ For more commands see the [Git cheatsheet]().  
 
 ## Group Member Details 
 | Full Name       | Preferred Name | SID       | Email                      | Phone     |
