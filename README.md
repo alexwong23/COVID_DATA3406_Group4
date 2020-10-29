@@ -1,4 +1,10 @@
-# DATA3406_Group 4 
+# DATA3406 - Group 4 (Thurs 12B): 'Deadliness' of COVID-19 (Global and Country-Based)
+
+This project is an inspection of the novel coronavirus (COVID-19) pandemic and its perceived deadliness across the world. Analysis will be both from a holistic, global perspective, as well as close examination of certain countries and how they have been impacted by COVID-19.
+
+Our analysis will also consider potential uncertainty present in the data provided.
+
+The source of the data will be from *Our World in Data* (https://ourworldindata.org/coronavirus)
 
 ## Group Member Details 
 | Full Name       | Preferred Name | SID       | Email                      | Phone     |
