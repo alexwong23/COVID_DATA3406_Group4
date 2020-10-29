@@ -8,7 +8,7 @@ The source of the data will be from *Our World in Data* (https://ourworldindata.
 
 ## HOW - Table of contents
 
-* [Driving Question](#drivingquestion)
+* [Driving Question](#driving-question)
 * [Background](#background)
 * [Data Origin](#dataorigin)
 * [Data Definitions](#datadefinitions)
@@ -18,14 +18,14 @@ The source of the data will be from *Our World in Data* (https://ourworldindata.
 * [Group Roles](#roles)
 
 
-Driving Question
+## Driving Question
 ---------
 
 The driving question of our analysis is *How Deadly is COVID-19?* We will be examining the 'deadliness' of COVID-19 both from a global perspective, as well as a select few countries and examining their responses to managing the virus.
 
 We will also be accounting for the uncertainty that might be prevalent within the data sources, and we will be making sure to mention these when producing data visualisations.
 
-Background
+## Background
 ---------
 
 The novel coronavirus disease 2019 (COVID-19) is an infectious respiratory disease that has impacted the world substantially. It has been classified as a global pandemic by the *World Health Organisation* (WHO), and has sparked countries across the world to develop management and prevention strategies such as lockdowns and extensive social distancing practices.
