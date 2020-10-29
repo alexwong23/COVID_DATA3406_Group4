@@ -15,7 +15,9 @@ The source of the data will be from *Our World in Data* (https://ourworldindata.
 * [Ethics](#ethics)
 * [Checklist](#checklist)
 * [Contributing](#contributing)
-* [Group Details](#group-details)
+* [Project Owners](#project-owners)
+* [License](#license)
+* [Other Details](#other-details)
 
 
 Driving Question
@@ -87,10 +89,9 @@ If you thought you had made a mistake, you can simly reset your commit by using 
    
  For more commands see the [Git cheatsheet](https://github.sydney.edu.au/awon6941/DATA3406_Group4/blob/master/assests/SWTM-2088_Atlassian-Git-Cheatsheet.pdf) by Atlissian.  
 
-Group Details
+Project Owners
 ---------
-
-### Member Details 
+### Contact details
 
 | Full Name       | Preferred Name | SID       | Email                      | Phone     |
 |-----------------|----------------|-----------|----------------------------|-----------|
@@ -110,7 +111,14 @@ Group Details
 |     11      |    Sam   |    Ken   |  Andrew |       Lou      |                  Alex  |
 |     12      |    Alex  |    Sam   |   Ken   |     Andrew     |                   Lou  |
 
-### Meeting Times Outside Class 
+License
+---------
+
+
+Other Details
+---------
+
+### Meeting Times
 * Monday 8:30pm 
 
 ### Tools
