@@ -1,4 +1,5 @@
-# DATA3406 - Group 4 (Thurs 12B): 'Deadliness' of COVID-19 (Global and Country-Based)
+# 'Deadliness' of COVID-19 (Global and Country-Based)
+> DATA3406 - Group 4 (12-Green)
 
 This project is an inspection of the novel coronavirus (COVID-19) pandemic and its perceived deadliness across the world. Analysis will be both from a holistic, global perspective, as well as close examination of certain countries and how they have been impacted by COVID-19.
 
@@ -82,7 +83,7 @@ If you thought you had made a mistake, you can simly reset your commit by using 
 
 Project Owners
 ---------
-Project owners are students from the University of Sydney.
+Project owners are DATA3406 students from the University of Sydney.
 
 ### Contact details
 
