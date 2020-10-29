@@ -10,22 +10,22 @@ The source of the data will be from *Our World in Data* (https://ourworldindata.
 
 * [Driving Question](#driving-question)
 * [Background](#background)
-* [Data Origin](#dataorigin)
-* [Data Definitions](#datadefinitions)
+* [Data Origin](#data-origin)
+* [Data Definitions](#data-definitions)
 * [Ethics](#ethics)
 * [Contributing](#contributing)
-* [Group Member Details](#memberdetails)
-* [Group Roles](#roles)
+* [Group Member Details](#group-member-details)
+* [Group Roles](#group-roles)
 
 
-## Driving Question
+Driving Question
 ---------
 
 The driving question of our analysis is *How Deadly is COVID-19?* We will be examining the 'deadliness' of COVID-19 both from a global perspective, as well as a select few countries and examining their responses to managing the virus.
 
 We will also be accounting for the uncertainty that might be prevalent within the data sources, and we will be making sure to mention these when producing data visualisations.
 
-## Background
+Background
 ---------
 
 The novel coronavirus disease 2019 (COVID-19) is an infectious respiratory disease that has impacted the world substantially. It has been classified as a global pandemic by the *World Health Organisation* (WHO), and has sparked countries across the world to develop management and prevention strategies such as lockdowns and extensive social distancing practices.
@@ -39,7 +39,8 @@ Our COVID-19 dataSet, *‘owid-covid-data.csv’*, is a snapshot of the data fro
 
 Our dataset has the following features: `iso_code`, `continent`, `location`, `date`, `total_cases`, `new_cases`, `new_cases_smoothed`, `total_deaths`, `new_deaths`, `new_deaths_smoothed`, `total_cases_per_million`, `new_cases_per_million`, `new_cases_smoothed_per_million`, `total_deaths_per_million`, `new_deaths_per_million`, `new_deaths_smoothed_per_million`, `total_tests`, `new_tests`, `new_tests_smoothed`, `total_tests_per_thousand`, `new_tests_per_thousand`, `new_tests_smoothed_per_thousand`, `tests_per_case`, `positive_rate`, `tests_units`, `stringency_index`, `population`, `population_density`, `median_age`, `aged_65_older`, `aged_70_older`, `gdp_per_capita`, `extreme_poverty`, `cardiovasc_death_rate`, `diabetes_prevalence`, `female_smokers`, `male_smokers`, `handwashing_facilities`, `hospital_beds_per_thousand`, `life_expectancy`, `human_development_index`.
 
-## Data Definitions 
+Data Definitions
+---------
 
 Group Meeting Minutes - Minutes folder
 Each group meeting minutes is stored in the Minutes folder with the format, Week#_Meeting_Minutes.pdf. Each document contains the agenda for the week and the following meeting. It also records the action items and division of work among group members for the following week. Additionally, it discusses the key points we learned from each member’s individual analysis.
@@ -47,9 +48,11 @@ Each group meeting minutes is stored in the Minutes folder with the format, Week
 Process Notebooks
 Each group member has their own Jupyter notebook containing the data exploration for their respective part. These process notebooks are updated regularly and stored in the Process Notebooks folder.
 
-## Ethics
+Ethics
+---------
 
-## Contributing
+Contributing
+---------
 (assuming you are currently on your local repository directory)
 1. `$git pull` - pull the latest changes **(ALWAYS DO THIS FIRST)** 
 2. Make your changes to the folder, either by adding a new file, or overwriting an existing file. 
@@ -65,7 +68,8 @@ If you thought you had made a mistake, you can simly reset your commit by using 
    
  For more commands see the [Git cheatsheet](https://github.sydney.edu.au/awon6941/DATA3406_Group4/blob/master/assests/SWTM-2088_Atlassian-Git-Cheatsheet.pdf) by Atlissian.  
 
-## Group Member Details 
+Group Member Details 
+---------
 | Full Name       | Preferred Name | SID       | Email                      | Phone     |
 |-----------------|----------------|-----------|----------------------------|-----------|
 | Samantha Chew   | Samantha       | 480380926 | sche4003@uni.sydney.edu.au | 0426262512|
@@ -74,7 +78,8 @@ If you thought you had made a mistake, you can simly reset your commit by using 
 | Voon Ken Ren    | Ken            | 480219084 | kvoo2843@uni.sydney.edu.au | 0450752249|
 | Lou Irish Gonzales | Lou         | 480378255 | lgon9610@uni.sydney.edu.au | 0426203696|
 
-## Group Roles
+Group Roles
+---------
 |    Week     |  Tracker |  Manager |  Editor | GitHub Manager |  Tester and Checklist  |
 | :---------: | :------: | :------: | :-----: | :------------: | :--------------------: |
 |      8      |    Lou   |   Alex   |   Sam   |       Ken      |                Andrew  |
@@ -83,11 +88,13 @@ If you thought you had made a mistake, you can simly reset your commit by using 
 |     11      |    Sam   |    Ken   |  Andrew |       Lou      |                  Alex  |
 |     12      |    Alex  |    Sam   |   Ken   |     Andrew     |                   Lou  |
 
-## Meeting Times Outside Class 
+Meeting Times Outside Class 
+---------
 
 * Monday 8:30pm 
 
-## Tools 
+Tools 
+---------
 * Github
 * Google Drive 
 * Jupyter Notebooks/Google Collab
