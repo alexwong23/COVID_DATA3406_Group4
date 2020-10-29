@@ -6,6 +6,12 @@ Our analysis will also consider potential uncertainty present in the data provid
 
 The source of the data will be from *Our World in Data* (https://ourworldindata.org/coronavirus)
 
+## Driving Question
+
+The driving question of our analysis is *How Deadly is COVID-19?* We will be examining the 'deadliness' of COVID-19 both from a global perspective, as well as a select few countries and examining their responses to managing the virus.
+
+We will also be accounting for the uncertainty that might be prevalent within the data sources, and we will be making sure to mention these when producing data visualisations.
+
 ## Group Member Details 
 | Full Name       | Preferred Name | SID       | Email                      | Phone     |
 |-----------------|----------------|-----------|----------------------------|-----------|
