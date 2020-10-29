@@ -20,7 +20,7 @@ To date,
 
 ## Data Origin 
 
-Our COVID-19 dataSet, ‘owid-covid-data.csv’, is a snapshot of the data from the ‘Our World in Data’ ![github repository](https://github.com/owid/covid-19-data/tree/master/public/data) taken on 15 October 2020. The data on the ‘Our World in Data’ repository is updated daily and includes features such as confirmed cases, confirmed deaths, COVID-19 testing, and other possible points of interest.
+Our COVID-19 dataSet, *‘owid-covid-data.csv’*, is a snapshot of the data from the ‘Our World in Data’ [github repository](https://github.com/owid/covid-19-data/tree/master/public/data) taken on **15 October 2020**. The data on the ‘Our World in Data’ repository is updated daily and includes features such as confirmed cases, confirmed deaths, COVID-19 testing, and other possible points of interest.
 
 Our dataset has the following features: iso_code, continent, location, date, total_cases, new_cases, new_cases_smoothed, total_deaths, new_deaths, new_deaths_smoothed, total_cases_per_million, new_cases_per_million, new_cases_smoothed_per_million, total_deaths_per_million, new_deaths_per_million, new_deaths_smoothed_per_million, total_tests, new_tests, new_tests_smoothed, total_tests_per_thousand, new_tests_per_thousand, new_tests_smoothed_per_thousand, tests_per_case, positive_rate, tests_units, stringency_index, population, population_density, median_age, aged_65_older, aged_70_older, gdp_per_capita, extreme_poverty, cardiovasc_death_rate, diabetes_prevalence, female_smokers, male_smokers, handwashing_facilities, hospital_beds_per_thousand, life_expectancy, human_development_index.
 
