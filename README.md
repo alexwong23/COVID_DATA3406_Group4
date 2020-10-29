@@ -6,7 +6,7 @@ Our analysis will also consider potential uncertainty present in the data provid
 
 The source of the data will be from *Our World in Data* (https://ourworldindata.org/coronavirus)
 
-## HOW - Table of contents
+## Table of contents
 
 * [Driving Question](#driving-question)
 * [Background](#background)
