@@ -18,6 +18,7 @@ The source of the data will be from *Our World in Data* (https://ourworldindata.
 * [Contributing](#contributing)
 * [Project Owners](#project-owners)
 * [License](#license)
+* [References](#references)
 * [Other Details](#other-details)
 
 
