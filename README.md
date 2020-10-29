@@ -14,8 +14,7 @@ The source of the data will be from *Our World in Data* (https://ourworldindata.
 * [Data Definitions](#data-definitions)
 * [Ethics](#ethics)
 * [Contributing](#contributing)
-* [Group Member Details](#group-member-details)
-* [Group Roles](#group-roles)
+* [Group Details](#group-details)
 
 
 Driving Question
@@ -68,8 +67,11 @@ If you thought you had made a mistake, you can simly reset your commit by using 
    
  For more commands see the [Git cheatsheet](https://github.sydney.edu.au/awon6941/DATA3406_Group4/blob/master/assests/SWTM-2088_Atlassian-Git-Cheatsheet.pdf) by Atlissian.  
 
-Group Member Details 
+Group Details
 ---------
+
+### Member Details 
+
 | Full Name       | Preferred Name | SID       | Email                      | Phone     |
 |-----------------|----------------|-----------|----------------------------|-----------|
 | Samantha Chew   | Samantha       | 480380926 | sche4003@uni.sydney.edu.au | 0426262512|
@@ -78,8 +80,8 @@ Group Member Details
 | Voon Ken Ren    | Ken            | 480219084 | kvoo2843@uni.sydney.edu.au | 0450752249|
 | Lou Irish Gonzales | Lou         | 480378255 | lgon9610@uni.sydney.edu.au | 0426203696|
 
-Group Roles
----------
+### Roles
+
 |    Week     |  Tracker |  Manager |  Editor | GitHub Manager |  Tester and Checklist  |
 | :---------: | :------: | :------: | :-----: | :------------: | :--------------------: |
 |      8      |    Lou   |   Alex   |   Sam   |       Ken      |                Andrew  |
@@ -88,13 +90,10 @@ Group Roles
 |     11      |    Sam   |    Ken   |  Andrew |       Lou      |                  Alex  |
 |     12      |    Alex  |    Sam   |   Ken   |     Andrew     |                   Lou  |
 
-Meeting Times Outside Class 
----------
-
+### Meeting Times Outside Class 
 * Monday 8:30pm 
 
-Tools 
----------
+### Tools
 * Github
 * Google Drive 
 * Jupyter Notebooks/Google Collab
