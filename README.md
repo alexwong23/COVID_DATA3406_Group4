@@ -52,7 +52,7 @@ Each group meeting minutes is stored in the Minutes folder with the format, Week
 Process Notebooks
 Each group member has their own Jupyter notebook containing the data exploration for their respective part. These process notebooks are updated regularly and stored in the Process Notebooks folder.
 
-> TODO: List of key files and describes key variables needed to understand the product notebook. Like purpose of each folder, where to find process notebooks, product notebook, the data...
+> TODO: List of key files and describes key variables needed to understand the product notebook. Like purpose of each folder, where to find process notebooks, product notebook, the data... Purpose for different folder of data (**Preserve immutability of the raw data.**)
 
 Ethics
 ---------
