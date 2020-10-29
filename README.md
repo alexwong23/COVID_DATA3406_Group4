@@ -33,11 +33,11 @@ To date,
 
 ### To add contributions:
 (assuming you are currently on your local repository directory)
-1. '$git pull' - pull the latest changes **(ALWAYS DO THIS FIRST)** 
+1. `$git pull` - pull the latest changes **(ALWAYS DO THIS FIRST)** 
 2. Make your changes to the folder, either by adding a new file, or overwriting an existing file. 
-3. '$git add .' - for add all changes or ‘$git add hello.ipynb’ - for a specific file.
-4. ‘$git commit -m “Your commit comments here." '
-5. ‘$git push’ - push your commits to the repository.
+3. `$git add .` - for add all changes or ‘$git add hello.ipynb’ - for a specific file.
+4. `$git commit -m “Your commit comments here." `
+5. `$git push` - push your commits to the repository.
 
 ## Group Member Details 
 | Full Name       | Preferred Name | SID       | Email                      | Phone     |
