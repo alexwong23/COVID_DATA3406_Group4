@@ -72,7 +72,7 @@ Getting Started
 ---------
 To clone the repository: 
 
-1. Create a folder on your local machine where you want to store these files (you can do this normally).
+1. Create a folder on your local machine where you want to store these files (you can do it like how you normally would on your desktop).
     * in terminal/command-line, you use the command `mkdir filename`
 2. Navigate to the folder you have just created in terminal/command-line. 
     * To do this use the command, `cd` to change directories (navigate through folders), and `dir` (for windows) or `ls` (for linux/MacOS) to show a list of available directories accessible from your current directory. 
