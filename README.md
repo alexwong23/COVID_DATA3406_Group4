@@ -62,10 +62,9 @@ If your project needed Ethics approval, mention the approval and the conditions 
 - [x] **Data origin**
 - [ ] **Time stamps**  
 Although GitHub has time stamps, it can be useful to include dates. For example say *'as of 20/10/2020 these papers were published in relation to the project'*. This is important information for when a README is updated, because a date supplies a starting point for additions.
-- [ ] **Project owners**  
-Include contact information for at least two people that are in charge of the project and repository. Include the the organisation (University, Faculty, School) and an email address. For groups, include the roles (manager, tracker...) and details of all team members
-- [ ] **Folder naming**  
-- [ ] **Folder structure**  
+- [x] **Project owners**
+- [x] **Folder naming**  
+- [ ] **Folder structure**
 
 * **data_raw** (our favorite oxymoron. Keep your original files separate from the rest)
 * **data_engineered** (files of data that are a result of your cleaning/modelling/analysis belong here)
@@ -91,6 +90,8 @@ If you thought you had made a mistake, you can simly reset your commit by using 
 
 Project Owners
 ---------
+Project owners are students from the University of Sydney.
+
 ### Contact details
 
 | Full Name       | Preferred Name | SID       | Email                      | Phone     |
