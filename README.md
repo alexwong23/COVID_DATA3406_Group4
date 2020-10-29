@@ -56,13 +56,13 @@ If you thought you had made a mistake, you can simly reset your commit by using 
 | Lou Irish Gonzales | Lou         | 480378255 | lgon9610@uni.sydney.edu.au | 0426203696|
 
 ## Group Roles
-|  Roles               | Name       |
-|----------------------|------------|
-| Manager              | Alex       |
-| Tracker              | Lou        |
-| Editor               | Samantha   |
-| Github Manager       | Ken        |
-| Tester and Checklist | Andrew     |
+|    Week     |  Tracker |  Manager |  Editor | GitHub Manager |  Tester and Checklist  |
+| :---------: | :------: | :------: | :-----: | :------------: | :--------------------: |
+|      8      |    Lou   |   Alex   |   Sam   |       Ken      |                Andrew  |
+|      9      |  Andrew  |    Lou   |  Alex   |       Sam      |                   Ken  |
+|     10      |    Ken   |  Andrew  |   Lou   |      Alex      |                   Sam  |
+|     11      |    Sam   |    Ken   |  Andrew |       Lou      |                  Alex  |
+|     12      |    Alex  |    Sam   |   Ken   |     Andrew     |                   Lou  |
 
 ## Meeting Times Outside Class 
 
