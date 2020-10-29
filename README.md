@@ -13,7 +13,7 @@ The source of the data will be from *Our World in Data* (https://ourworldindata.
 * [Data Origin](#data-origin)
 * [Data Definitions](#data-definitions)
 * [Ethics](#ethics)
-* [Checklist](#checklist)
+* [Issues](#issues)
 * [Contributing](#contributing)
 * [Project Owners](#project-owners)
 * [License](#license)
@@ -53,18 +53,15 @@ Each group member has their own Jupyter notebook containing the data exploration
 Ethics
 ---------
 
-Checklist
+Issues
 ---------
-- [x] **GitHub Access**  
-Add collaborators, and teaching staff to the project
-- [ ] **Ethics**
-If your project needed Ethics approval, mention the approval and the conditions that are particularly relevant to the repository. This can for example include the people that have access (I hope your repository is set to private, otherwise you are in trouble), the hosting location, anonymisation or others.
-- [x] **Data origin**
-- [ ] **Time stamps**  
-Although GitHub has time stamps, it can be useful to include dates. For example say *'as of 20/10/2020 these papers were published in relation to the project'*. This is important information for when a README is updated, because a date supplies a starting point for additions.
-- [x] **Project owners**
-- [x] **Folder naming**  
-- [x] **Folder structure**
+- [x] **Format README file**
+- [ ] **Create an outline of the product notebook**
+- [ ] **Ethical analysis - purpose**
+- [ ] **Stakeholder analysis**
+- [ ] **Ethical analysis - nature of raw data**
+- [ ] **Ethical analysis - managing data and biases**
+- [ ] **Ethical analysis - limitations**
 
 Contributing
 ---------
