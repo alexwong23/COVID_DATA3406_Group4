@@ -47,7 +47,7 @@ Data Definitions
 
 1. *Minutes folder*
 
-This folder contains our group meeting minutes with the format, *Week#_Meeting_Minutes.pdf*. Each document contains the agenda for the week and the following meeting. It also records the action items and division of work among group members for the following week. Additionally, it discusses the key points we learned from each member’s individual analysis.
+This folder contains our group meeting minutes with the format, *'Week#_Meeting_Minutes.pdf'*. Each document contains the agenda for the week and the following meeting. It also records the action items and division of work among group members for the following week. Additionally, it discusses the key points we learned from each member’s individual analysis.
 
 2. *assets folder*
 
