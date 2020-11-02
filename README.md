@@ -35,8 +35,6 @@ Background
 
 The novel coronavirus disease 2019 (COVID-19) is an infectious respiratory disease that has impacted the world substantially. It has been classified as a global pandemic by the *World Health Organisation* (WHO), and has sparked countries across the world to develop management and prevention strategies such as lockdowns and extensive social distancing practices.
 
-To date, 
-
 Data Origin 
 ---------
 
@@ -47,13 +45,29 @@ Our dataset has the following features: `iso_code`, `continent`, `location`, `da
 Data Definitions
 ---------
 
-Group Meeting Minutes - Minutes folder
-Each group meeting minutes is stored in the Minutes folder with the format, Week#_Meeting_Minutes.pdf. Each document contains the agenda for the week and the following meeting. It also records the action items and division of work among group members for the following week. Additionally, it discusses the key points we learned from each member’s individual analysis.
+1. *Minutes folder*
 
-Process Notebooks
-Each group member has their own Jupyter notebook containing the data exploration for their respective part. These process notebooks are updated regularly and stored in the Process Notebooks folder.
+This folder contains our group meeting minutes with the format, *Week#_Meeting_Minutes.pdf*. Each document contains the agenda for the week and the following meeting. It also records the action items and division of work among group members for the following week. Additionally, it discusses the key points we learned from each member’s individual analysis.
 
-> TODO: List of key files and describes key variables needed to understand the product notebook. Like purpose of each folder, where to find process notebooks, product notebook, the data... Purpose for different folder of data (**Preserve immutability of the raw data.**)
+2. *assets folder*
+
+This folder contains miscellaneous documents i.e. a git cheatsheet.
+
+3. *data_engineered folder*
+
+This folder contains processed data such as *'dataset_cleaned.csv'*, *'dataset_countries_only.csv'* and *'dataset_metadata_only.csv'*.
+
+4. *data_raw folder*
+
+This folder contains the raw data taken from the 'Our World in Data' github repository on 15 October 2020. Separate folders for data help to preserve the *immutability* of the raw data.
+
+5. *process_notebooks folder*
+
+This folder contains all our process notebooks. Each member has their own Jupyter notebook containing the data exploration for their respective part.
+
+6. *Product_Notebook.ipynb*
+
+The product notebook contains our final product. describe key variables needed to understand the product notebook.
 
 Ethics
 ---------
@@ -61,7 +75,7 @@ Ethics
 Issues
 ---------
 - [x] **Format README file**
-- [ ] **Create an outline of the product notebook**
+- [x] **Create an outline of the product notebook**
 - [ ] **Ethical analysis - purpose**
 - [ ] **Stakeholder analysis**
 - [ ] **Ethical analysis - nature of raw data**
